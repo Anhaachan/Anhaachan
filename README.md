@@ -1,4 +1,5 @@
-<p align="center"><a href="https://anchan-portfolio.netlify.app/"><img width="80%" alt="Hello there, I'm Ankhbayar" src="" /></a></p>
+
+<p align="center">🙋 [Hello there, I'm Ankhbayar](https://anchan-portfolio.netlify.app)</p>
 
 <br />
 
