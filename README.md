@@ -1,4 +1,4 @@
-<p align="center"><a href="anchan-portfolio.netlify.app"><img width="80%" alt="Hello there, I'm Ankhbayar" src="" /></a></p>
+<p align="center"><a href="https://anchan-portfolio.netlify.app/"><img width="80%" alt="Hello there, I'm Ankhbayar" src="" /></a></p>
 
 <br />
 
