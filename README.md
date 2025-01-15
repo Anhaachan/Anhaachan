@@ -1,6 +1,8 @@
 
 <p align="center"><a href="https://anchan-portfolio.netlify.app/">🙋 Hello there, I'm Ankhbayar</a></p>
 
+🌐Readme Language: [English](README.md) |  [日本語](README_jp.md)
+
 <br />
 
 I'm a self-taught, passionate developer with a focus on Front-end, a knack for Backend, and a love for Cloud Engineering.
