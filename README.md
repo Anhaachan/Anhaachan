@@ -18,7 +18,7 @@ I'm a self-taught, passionate developer with a focus on Back-end, a knack for Fr
 **Skills**
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS, SQL, Python
-- **Frameworks/Libraries:** React, Tailwind CSS, Next.js, Nest.js, Astro, FastAPI, Express.js
+- **Frameworks/Libraries:** React, Tailwind CSS, Next.js, Nest.js, FastAPI, Express.js
 - **Tools:** Git, Webpack, Storybook
 - **Other:** UI/UX design, Responsive Design, AWS
 
